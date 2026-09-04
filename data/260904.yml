@@ -7,7 +7,7 @@ about:
   head: 5ae4758
   archived: false
   latestVersion: 0.7.0
-  collectedAt: 2026-09-04T19:28:06Z
+  collectedAt: 2026-09-04T21:02:27Z
 timeline:
   created: 2014-12-02
   lastCommit: 2026-08-24
@@ -80,6 +80,29 @@ total:
   openIssue: 20
   commit: 200
 ---
+path: /home/runner/.x-repo/github.com/rcaloras/bash-preexec
+collectedAt: 2026-09-04T21:02:28Z
+loc:
+  Sh:
+    code: 289
+    comments: 197
+    blanks: 80
+    files: 1
+  Bash:
+    code: 182
+    comments: 1
+    blanks: 39
+    files: 1
+  Markdown:
+    code: 0
+    comments: 100
+    blanks: 27
+    files: 3
+total:
+  code: 495
+  comments: 306
+  blanks: 146
+  files: 5
 ---
 date: "2026-08-24"
 repo:
