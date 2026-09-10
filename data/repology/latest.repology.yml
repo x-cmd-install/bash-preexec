@@ -1,0 +1,269 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Preexec and precmd functions for Bash (like Zsh)
+- repo: alt_p11
+  srcname: bash-preexec
+  binnames:
+    - bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-alt1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - boria138@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Shells
+- repo: altsisyphus
+  srcname: bash-preexec
+  binnames:
+    - bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-alt1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - boria138@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Shells
+- repo: arch
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: aur
+  srcname: bash-preexec-git
+  binname: bash-preexec-git
+  visiblename: bash-preexec-git
+  version: 0.3.3.r0.gc4537b4
+  origversion: 0.3.3.r0.gc4537b4-3
+  status: rolling
+  summary: ⚡ preexec and precmd functions for Bash just like Zsh.
+  maintainers:
+    - giuscri@aur
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: world
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: bash-preexec
+  binnames:
+    - bash-preexec
+    - bash-preexec-all-users
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1.fc46
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: homebrew
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: null
+  status: newest
+  summary: Preexec and precmd functions for Bash (like Zsh)
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: msys2_msys2
+  subrepo: x86_64
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: newest
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - spdx:MIT
+- repo: nix_stable_24_05
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: shells/bash-preexec
+  binname: bash-preexec
+  visiblename: shells/bash-preexec
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd hook functions a la zsh
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - shells
+- repo: pkgsrc_2026_2
+  srcname: shells/bash-preexec
+  binname: bash-preexec
+  visiblename: shells/bash-preexec
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd hook functions a la zsh
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - shells
+- repo: pkgsrc_current
+  srcname: shells/bash-preexec
+  binname: bash-preexec
+  visiblename: shells/bash-preexec
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd hook functions a la zsh
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - shells
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0_1
+  status: newest
+  summary: Preexec and Precmd functions for Bash just like Zsh
+  maintainers:
+    - abc@pompel.me
+  licenses:
+    - MIT
