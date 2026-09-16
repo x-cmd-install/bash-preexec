@@ -28,8 +28,8 @@ x install bash-preexec
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
@@ -54,12 +54,12 @@ x install bash-preexec
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-17 | 1 | 0 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-17 | 1 | 0 | 1 | 1 | 0 | 4 |
-| last180d | 2026-03-19 | 1 | 5 | 1 | 4 | 1 | 11 |
-| 360d | 2025-09-20 | 1 | 7 | 1 | 6 | 2 | 17 |
-| last720d | 2024-09-25 | 2 | 14 | 1 | 6 | 4 | 36 |
+| 30d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-18 | 1 | 0 | 1 | 0 | 0 | 3 |
+| 90d | 2026-06-18 | 1 | 0 | 1 | 1 | 0 | 4 |
+| last180d | 2026-03-20 | 1 | 5 | 1 | 4 | 1 | 11 |
+| 360d | 2025-09-21 | 1 | 7 | 1 | 6 | 2 | 17 |
+| last720d | 2024-09-26 | 2 | 14 | 1 | 6 | 4 | 36 |
 
 ## 改进这些数据
 
@@ -70,4 +70,4 @@ bash-preexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T03:43:13Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T03:40:13Z._
