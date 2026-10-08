@@ -24,13 +24,13 @@ Total: **471** lines of code across **5** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (4/10) — 3 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 1 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-07-09 | 1 | 0 | 1 | 1 | 0 | 3 |
-| last180d | 2026-04-10 | 1 | 1 | 1 | 2 | 1 | 7 |
-| 360d | 2025-10-12 | 1 | 7 | 1 | 6 | 1 | 17 |
-| last720d | 2024-10-17 | 2 | 14 | 1 | 6 | 4 | 36 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 1 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-07-10 | 1 | 0 | 1 | 1 | 0 | 3 |
+| last180d | 2026-04-11 | 1 | 1 | 1 | 2 | 1 | 7 |
+| 360d | 2025-10-13 | 1 | 7 | 1 | 6 | 1 | 17 |
+| last720d | 2024-10-18 | 2 | 14 | 1 | 6 | 4 | 36 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for bash-preexec lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T04:39:49Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T04:50:37Z._
