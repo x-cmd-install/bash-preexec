@@ -28,8 +28,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 1 | 0 | 1 | 0 | 0 | 3 |
-| last180d | 2026-04-24 | 1 | 1 | 1 | 2 | 1 | 6 |
-| 360d | 2025-10-26 | 1 | 7 | 1 | 5 | 1 | 17 |
-| last720d | 2024-10-31 | 2 | 14 | 1 | 6 | 4 | 36 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 1 | 0 | 1 | 0 | 0 | 3 |
+| last180d | 2026-04-25 | 1 | 1 | 1 | 2 | 1 | 6 |
+| 360d | 2025-10-27 | 1 | 7 | 1 | 5 | 1 | 17 |
+| last720d | 2024-11-01 | 2 | 14 | 1 | 6 | 4 | 36 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for bash-preexec lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:35:02Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:34:34Z._
