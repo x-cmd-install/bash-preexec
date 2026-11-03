@@ -140,8 +140,8 @@
   srcname: bash-preexec
   binname: bash-preexec
   visiblename: bash-preexec
-  version: 0.6.0
-  origversion: 0.6.0-1
+  version: 0.5.0
+  origversion: 0.5.0-1
   status: outdated
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
@@ -151,9 +151,9 @@
   srcname: bash-preexec
   binname: bash-preexec
   visiblename: bash-preexec
-  version: 0.7.0
-  origversion: 0.7.0-1
-  status: newest
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: outdated
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
