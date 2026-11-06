@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last180d | 2026-05-09 | 1 | 1 | 1 | 2 | 0 | 6 |
-| 360d | 2025-11-10 | 1 | 6 | 1 | 5 | 1 | 17 |
-| last720d | 2024-11-15 | 2 | 14 | 1 | 6 | 4 | 36 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-05-10 | 1 | 1 | 1 | 2 | 0 | 6 |
+| 360d | 2025-11-11 | 1 | 6 | 1 | 5 | 1 | 17 |
+| last720d | 2024-11-16 | 2 | 14 | 1 | 6 | 4 | 36 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for bash-preexec lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:27:27Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:26:39Z._
