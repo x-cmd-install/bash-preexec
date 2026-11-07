@@ -1,18 +1,37 @@
-- repo: alt_p11
+- repo: manjaro_testing
+  subrepo: extra
   srcname: bash-preexec
-  binnames:
-    - bash-preexec
+  binname: bash-preexec
   visiblename: bash-preexec
-  version: 0.6.0
-  origversion: 0.6.0-alt1
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: newest
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: newest
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.5.0
+  origversion: null
   status: outdated
   summary: preexec and precmd functions for Bash just like Zsh
   maintainers:
-    - boria138@altlinux.org
+    - eliza@elizas.website
+    - robert@rycee.net
   licenses:
     - MIT
-  categories:
-    - Shells
 - repo: altsisyphus
   srcname: bash-preexec
   binnames:
@@ -39,6 +58,32 @@
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
+- repo: msys2_msys2
+  subrepo: x86_64
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: newest
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - spdx:MIT
+- repo: alt_p11
+  srcname: bash-preexec
+  binnames:
+    - bash-preexec
+  visiblename: bash-preexec
+  version: 0.6.0
+  origversion: 0.6.0-alt1
+  status: outdated
+  summary: preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - boria138@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Shells
 - repo: aur
   srcname: bash-preexec-git
   binname: bash-preexec-git
@@ -140,45 +185,12 @@
   srcname: bash-preexec
   binname: bash-preexec
   visiblename: bash-preexec
-  version: 0.5.0
-  origversion: 0.5.0-1
-  status: outdated
-  summary: preexec and precmd functions for Bash just like Zsh
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: bash-preexec
-  binname: bash-preexec
-  visiblename: bash-preexec
-  version: 0.5.0
-  origversion: 0.5.0-1
-  status: outdated
-  summary: preexec and precmd functions for Bash just like Zsh
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: bash-preexec
-  binname: bash-preexec
-  visiblename: bash-preexec
   version: 0.7.0
   origversion: 0.7.0-1
   status: newest
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
-- repo: msys2_msys2
-  subrepo: x86_64
-  srcname: bash-preexec
-  binname: bash-preexec
-  visiblename: bash-preexec
-  version: 0.7.0
-  origversion: 0.7.0-1
-  status: newest
-  summary: preexec and precmd functions for Bash just like Zsh
-  licenses:
-    - spdx:MIT
 - repo: nix_stable_24_05
   srcname: bash-preexec
   visiblename: bash-preexec
@@ -192,18 +204,6 @@
   licenses:
     - MIT
 - repo: nix_stable_24_11
-  srcname: bash-preexec
-  visiblename: bash-preexec
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: preexec and precmd functions for Bash just like Zsh
-  maintainers:
-    - eliza@elizas.website
-    - robert@rycee.net
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
   srcname: bash-preexec
   visiblename: bash-preexec
   version: 0.5.0
