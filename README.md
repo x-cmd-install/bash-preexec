@@ -34,22 +34,22 @@ Total: **471** lines of code across **5** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,063 · **Forks**: 104 · **Open issues**: 93 · **Contributors**: 30
+- **Stars**: 1,063 · **Forks**: 104 · **Open issues**: 94 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 72 · **Open PRs**: 7 · **Closed issues**: 73 · **Open issues**: 20 · **Commits**: 200
+- **Releases**: 18 · **Merged PRs**: 72 · **Open PRs**: 7 · **Closed issues**: 74 · **Open issues**: 20 · **Commits**: 200
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last180d | 2026-05-18 | 1 | 1 | 1 | 2 | 0 | 6 |
-| 360d | 2025-11-19 | 1 | 6 | 1 | 5 | 1 | 17 |
-| last720d | 2024-11-24 | 2 | 14 | 1 | 6 | 4 | 36 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-08-17 | 1 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-05-19 | 1 | 1 | 1 | 3 | 0 | 6 |
+| 360d | 2025-11-20 | 1 | 6 | 1 | 6 | 1 | 17 |
+| last720d | 2024-11-25 | 2 | 14 | 1 | 7 | 4 | 36 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for bash-preexec lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T05:14:24Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T05:08:05Z._
