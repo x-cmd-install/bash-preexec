@@ -128,9 +128,9 @@
     - bash-preexec
     - bash-preexec-all-users
   visiblename: bash-preexec
-  version: 0.6.0
-  origversion: 0.6.0-1.fc46
-  status: outdated
+  version: 0.7.0
+  origversion: 0.7.0-1.fc46
+  status: newest
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
