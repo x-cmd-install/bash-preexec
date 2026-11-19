@@ -1,3 +1,18 @@
+- repo: fedora_44
+  subrepo: updates
+  srcname: bash-preexec
+  binnames:
+    - bash-preexec
+    - bash-preexec-all-users
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0-1.fc44
+  status: newest
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: alt_p11
   srcname: bash-preexec
   binnames:
@@ -91,21 +106,17 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: updates
+- repo: parabola
+  subrepo: extra
   srcname: bash-preexec
-  binnames:
-    - bash-preexec
-    - bash-preexec-all-users
+  binname: bash-preexec
   visiblename: bash-preexec
-  version: 0.6.0
-  origversion: 0.6.0-1.fc44
-  status: outdated
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: newest
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
-  categories:
-    - Unspecified
 - repo: fedora_45
   subrepo: release
   srcname: bash-preexec
@@ -264,17 +275,6 @@
   maintainers:
     - eliza@elizas.website
     - robert@rycee.net
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: bash-preexec
-  binname: bash-preexec
-  visiblename: bash-preexec
-  version: 0.7.0
-  origversion: 0.7.0-1
-  status: newest
-  summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
