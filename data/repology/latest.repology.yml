@@ -1,18 +1,15 @@
-- repo: fedora_44
-  subrepo: updates
+- repo: nix_stable_25_11
   srcname: bash-preexec
-  binnames:
-    - bash-preexec
-    - bash-preexec-all-users
   visiblename: bash-preexec
-  version: 0.7.0
-  origversion: 0.7.0-1.fc44
-  status: newest
-  summary: preexec and precmd functions for Bash just like Zsh
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Preexec and precmd functions for Bash just like Zsh
+  maintainers:
+    - eliza@elizas.website
+    - robert@rycee.net
   licenses:
     - MIT
-  categories:
-    - Unspecified
 - repo: alt_p11
   srcname: bash-preexec
   binnames:
@@ -106,17 +103,21 @@
     - MIT
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
+- repo: fedora_44
+  subrepo: updates
   srcname: bash-preexec
-  binname: bash-preexec
+  binnames:
+    - bash-preexec
+    - bash-preexec-all-users
   visiblename: bash-preexec
   version: 0.7.0
-  origversion: 0.7.0-1
+  origversion: 0.7.0-1.fc44
   status: newest
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
+  categories:
+    - Unspecified
 - repo: fedora_45
   subrepo: release
   srcname: bash-preexec
@@ -126,7 +127,22 @@
   visiblename: bash-preexec
   version: 0.6.0
   origversion: 0.6.0-1.fc45
-  status: outdated
+  status: legacy
+  summary: preexec and precmd functions for Bash just like Zsh
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: updates
+  srcname: bash-preexec
+  binnames:
+    - bash-preexec
+    - bash-preexec-all-users
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0-1.fc45
+  status: newest
   summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
@@ -241,18 +257,6 @@
     - robert@rycee.net
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: bash-preexec
-  visiblename: bash-preexec
-  version: 0.6.0
-  origversion: null
-  status: outdated
-  summary: Preexec and precmd functions for Bash just like Zsh
-  maintainers:
-    - eliza@elizas.website
-    - robert@rycee.net
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: bash-preexec
   visiblename: bash-preexec
@@ -275,6 +279,17 @@
   maintainers:
     - eliza@elizas.website
     - robert@rycee.net
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: bash-preexec
+  binname: bash-preexec
+  visiblename: bash-preexec
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: newest
+  summary: preexec and precmd functions for Bash just like Zsh
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
